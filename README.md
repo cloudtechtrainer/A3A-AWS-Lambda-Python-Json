@@ -6,3 +6,6 @@
 4. Create new resource and method  
 5. Get Method add the created Lambda Function  
 6. Deploy API  
+
+In order to test it, paste the deplopyed URL and pass the values after the URL. Example below:
+https://m1awtnu5uj.execute-api.us-east-2.amazonaws.com/test/transactions?transactionId=5&type=PURCHASE&amount=500
