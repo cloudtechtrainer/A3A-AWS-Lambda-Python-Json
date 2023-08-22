@@ -1,4 +1,4 @@
-# 4-AWS-Lambda-Python  
+# 3a-AWS-Lambda-Python  
 ## This program will convert input into JSON file
 ## Steps
 1. Create Lambda Function  
